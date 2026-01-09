@@ -319,6 +319,9 @@ print(df.columns.tolist())
 
 #### Fase 2: Análisis Univariable (Caso de Estudio)
 
+<img width="1000" height="400" alt="Code_Generated_Image (4)" src="https://github.com/user-attachments/assets/24428415-a70d-4f6d-85bc-038a8d8c3211" />
+<img width="1500" height="1000" alt="Code_Generated_Image (3)" src="https://github.com/user-attachments/assets/7b9535e1-ae70-4a65-9f2e-296af3622688" />
+
 He seleccionado un grupo de variables clave para entender el comportamiento financiero y de crítica de las películas: **`revenue` (ingresos)**, **`vote_average` (calificación)**, **`budget` (presupuesto)** y **`runtime` (duración)**.
 
 **1. Estadísticas Descriptivas**
@@ -403,8 +406,10 @@ plt.savefig('univariate_analysis.png')
 
 ---
 
-#### Fase 3: Análisis Bivariable / Multivariable (Relaciones)
+# Fase 3: Análisis Bivariable / Multivariable (Relaciones)
 
+<img width="1000" height="800" alt="image-1" src="https://github.com/user-attachments/assets/f52b448c-6483-4de1-aea2-9bdcd61ba247" />
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/2a02a391-901a-41eb-abba-4f7be819cd61" />
 He generado la matriz de correlación y gráficos de dispersión para visualizar cómo interactúan las variables clave del dataset.
 
 **1. Matriz de Correlación (Heatmap)**
